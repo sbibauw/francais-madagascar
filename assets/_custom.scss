@@ -1,0 +1,80 @@
+/* You can add custom styles here. */
+
+// @import "plugins/numbered";
+// @import "plugins/scrollbars";
+body {
+    font-family: 'Lora', Garamond, serif;
+    letter-spacing: normal;
+    background-image: url(img/arbre.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+aside.book-menu nav,
+aside.book-toc nav {
+    // background-color: #fff;
+    // opacity: .9;
+    font-family: 'Roboto', sans-serif;
+}
+
+.book-toc nav {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    background-color: #fff;
+    opacity: .92;
+}
+
+aside.book-menu nav ul ul li {
+    margin: .5em 0 0;
+    font-size: small;
+}
+
+div.book-page article {
+    background-color: #fff;
+    opacity: .95;
+}
+
+h2.book-brand {
+    font-family: 'Lora', Garamond, serif;
+    font-weight: 600;
+}
+
+// .book-menu nav {
+//     display: flex;
+//     flex-direction: column;
+// }
+.at-bottom {
+    // align-self: flex-end;
+    position: absolute;
+    bottom: 0;
+    background-color: #fff;
+    opacity: .9;
+}
+
+p.item-at-bottom {
+    // margin-top: ;
+}
+
+// .item-at-bottom {
+//     margin-top: auto;
+// }
+.justify-end {
+    font-size: small;
+}
+
+.justify-end a:link,
+.justify-end a:visited {
+    color: #999;
+}
+
+.book-page h1,
+.book-page h2,
+.book-page h3,
+.book-page h4,
+.book-page h5 {
+    color: #CC9933;
+}
+
+section.footnotes {
+    font-size: small;
+}
