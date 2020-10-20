@@ -1,5 +1,6 @@
 ---
-title: Introduction
+title: Le français à Madagascar – Statuts, usages, particularismes
+shorttitle: Introduction
 type: docs
 Description: Analyse linguistique, sociolinguistique et différentielle du français parlé à Madagascar. Travail de synthèse bibliographique réalisé par Serge Bibauw en 2006.
 # bookFlatSection: false
